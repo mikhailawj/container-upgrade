@@ -62,4 +62,4 @@ fi
 # gzip the output
 gzip "${OUTPUT_FILE}"
 
-echo "Docker image saved as: ${OUTPUT_FILE}"
+echo "Docker image saved as: ${OUTPUT_FILE}.gz"
